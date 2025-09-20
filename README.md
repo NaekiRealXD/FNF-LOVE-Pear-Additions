@@ -1,4 +1,4 @@
-# ![](art/icon.png) FNF Löve + Pear Additions!
+# ![](art/logo.png) FNF Löve + Pear Additions!
 
 ![](art/funkin_logo.png)
 
