@@ -1,14 +1,14 @@
-# ![](art/icon.png) FNF Löve
+# ![](art/icon.png) FNF Löve + Pear Additions!
 
 ![](art/funkin_logo.png)
 
-<p align="center">A port of <a href="https://funkin.me">Friday Night Funkin'</a> to the <a href="https://love2d.org">LÖVE</a> game engine.</p>
+<p align="center">An modifications for the port of <a href="https://funkin.me">Friday Night Funkin'</a> to the <a href="https://love2d.org">LÖVE</a> game engine.</p>
 
-## <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" width="18"> Discord Server
+## Pear Additions Dev Team
 
-[![Discord Banner](https://invidget.switchblade.xyz/eFFgHz7X8N)](https://discord.gg/eFFgHz7X8N)
+- NaekiXD (owner)
 
-## Dev Team
+## FNF LÖVE Port Dev Team
 
 - Stilic (owner)
 - Raltyro
@@ -24,5 +24,3 @@
 - [lua-discordRPC](https://github.com/pfirsich/lua-discordRPC)
 - [lua-https](https://github.com/love2d/lua-https)
 - [Lua-Simple-XML-Parser](https://github.com/Cluain/Lua-Simple-XML-Parser)\*
-
-* Was modified for our needs.
